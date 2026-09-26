@@ -1,0 +1,7 @@
+{
+  "name": "sih26078-weather-anomaly-ai",
+  "private": true,
+  "scripts": {
+    "build": "cd frontend && npm install && npm run build"
+  }
+}
